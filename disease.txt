@@ -1,0 +1,11 @@
+Chicken-pox     malaise_rashes_rupture_scab_rash_Malaise_Rashes_Rupture_Scab_Rash
+Common-cold     cold_runny-nose_headache_Cold_Runny-nose_Headache_fever_Fever_cough_Cough
+Conjunctivitis  tearing_irritation_red-eyes_Tearing_Irritation_Red-eyes
+Hepatitis-A     Headache_weakness_joint-pain_anorexia_nausea_vomiting_RUQ-pain_jaundice_dark-urine_clay-colored-stools
+Hepatitis-B     abdominal-pain_loss-of-appetite_nausea_diarrhea_light-colored-stools_dark-urine_fatigue_fever_jaundice.
+Influenza(flu)  fever_tiredness_malaise_body-pain_dry-cough_Fever_Tiredness_Malaise_Body-pain_Dry-cough
+Pneumonia       chills_high-fever_chest-pain_cough_breathing-problem_Chills_High-fever_Chest-pain_Cough_Breathing-problem
+Bird-Flu        fever_cough_sore-throat_body-pain_Fever_Cough_Sore-throat_Body-pain
+Measles         conjunctivitis_swollen-eyelids_photophobia_malaise_cough_Conjunctivitis_Swollen-eyelids_Photophobia_Malaise_Cough
+Meningitis  fever_chills_headache_nuchal_rigidity_arthralgia_Fever_Chills_Headache_Nuchal_Rigidity_Arthralgia
+Monkeypox  headache_muscle-aches_back-pain_swollen-lymph-nodes_tiredness_Headache_Muscle-aches_Back-pain_Swollen-Lymph-nodes_Tiredness

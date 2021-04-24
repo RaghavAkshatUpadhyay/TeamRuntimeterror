@@ -1,0 +1,11 @@
+Chicken-pox acyclovir_loratadine_tecovirimat
+Common-cold acrivastine_aspirin_codeine_benzonatate
+Conjunctivitis carbenicillin_gatifloxacin_homatropine
+Hepatitis-A adefovir-dipivoxil_Hepatitis-A-vaccine
+Hepatitis-B adefovir-dipivoxil_entecavir_indinavir_thymalfasin
+Influenza(flu) Rapivab_Relenza_Tamiflu_Xofluza
+Measles Tylenol_Advil
+Meningitis Vancomycin plus cefotaxime or ceftriaxone
+Monkeypox  ACAM2000-vaccine 
+Pneumonia Advil_Motrin-IB
+Tuberculosis Isoniazid_Rifampin_Ethambutol_pyrazinamide
